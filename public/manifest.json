@@ -1,0 +1,15 @@
+{
+  "short_name": "Clik",
+  "name": "Clik",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f4f3f2",
+  "background_color": "#f4f3f2"
+}
